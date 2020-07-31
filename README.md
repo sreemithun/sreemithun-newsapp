@@ -1,10 +1,12 @@
-# news1
+# news
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+It is a newsapp for the website hackernewsapi
 
 A few resources to get you started if this is your first Flutter project:
 
